@@ -59,9 +59,6 @@ section{
     border-radius: 20px;
 }
 
-#centro:hover{
-    filter: opacity(.5);  
-}
 
 #cajon{
         margin-top: 8px;
@@ -155,3 +152,45 @@ span{
     font-weight:400;
    
 }
+
+#view{
+    margin-top: -240px;
+    width: 90%;
+    height: 200%;
+    border-radius: 20px;
+    margin-bottom: 0px;
+    position: relative;
+     
+
+}
+
+#view:hover{
+     
+    background: rgb(62, 73, 226);
+    background-image: url(images/icon-view.svg);
+    background-repeat: no-repeat;
+    background-position-x: 112px;
+    background-position-y: 100px;
+    opacity: .5;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
